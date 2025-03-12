@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import { TruckIcon, UserGroupIcon, BuildingOfficeIcon, CheckBadgeIcon } from '@heroicons/react/24/outline'
+import { UserGroupIcon, BuildingOfficeIcon, CheckBadgeIcon } from '@heroicons/react/24/outline'
 
 const stats = [
   { name: 'Anos no Mercado', value: '15+' },
